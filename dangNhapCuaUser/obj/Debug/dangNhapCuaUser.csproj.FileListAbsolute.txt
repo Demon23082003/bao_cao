@@ -1,0 +1,13 @@
+D:\c#\dangNhapCuaUser\bin\Debug\dangNhapCuaUser.exe.config
+D:\c#\dangNhapCuaUser\bin\Debug\dangNhapCuaUser.exe
+D:\c#\dangNhapCuaUser\bin\Debug\dangNhapCuaUser.pdb
+D:\c#\dangNhapCuaUser\obj\Debug\dangNhapCuaUser.csproj.AssemblyReference.cache
+D:\c#\dangNhapCuaUser\obj\Debug\dangNhapCuaUser.csproj.SuggestedBindingRedirects.cache
+D:\c#\dangNhapCuaUser\obj\Debug\dangNhapCuaUser.FromChuongTrinh.resources
+D:\c#\dangNhapCuaUser\obj\Debug\dangNhapCuaUser.Form1.resources
+D:\c#\dangNhapCuaUser\obj\Debug\dangNhapCuaUser.Properties.Resources.resources
+D:\c#\dangNhapCuaUser\obj\Debug\dangNhapCuaUser.csproj.GenerateResource.cache
+D:\c#\dangNhapCuaUser\obj\Debug\dangNhapCuaUser.csproj.CoreCompileInputs.cache
+D:\c#\dangNhapCuaUser\obj\Debug\dangNhapCuaUser.exe
+D:\c#\dangNhapCuaUser\obj\Debug\dangNhapCuaUser.pdb
+D:\c#\dangNhapCuaUser\obj\Debug\dangNhapCuaUser.dangKyCuaUser.resources
